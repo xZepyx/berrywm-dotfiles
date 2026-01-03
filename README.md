@@ -1,5 +1,4 @@
-<h1 align="center"> BerryWM Rice – Dotfiles</h1>
-<p align="center">by <strong>xZepyx</strong></p>
+<h1 align="center"> berrywm-dotfiles </h1>
 
 <p align="center">
   A clean, fast, and practical BerryWM rice featuring modular configs, Rofi launcher, Polybar, 
@@ -7,18 +6,6 @@
   Tuned for <em>real-world daily usage</em>.
 </p>
 
-
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/xZepyx/HyprZepyx?style=for-the-badge&color=8ad7eb&logo=git&logoColor=D9E0EE&labelColor=1E202B" alt="Last Commit">
-  <img src="https://img.shields.io/github/stars/xZepyx/HyprZepyx?style=for-the-badge&logo=andela&color=86dbd7&logoColor=D9E0EE&labelColor=1E202B" alt="Stars">
-  <img src="https://img.shields.io/github/repo-size/xZepyx/HyprZepyx?color=86dbce&label=SIZE&logo=protondrive&style=for-the-badge&logoColor=D9E0EE&labelColor=1E202B" alt="Repo Size">
-  <img src="https://img.shields.io/badge/Maintenance-Unmaintained-ff6969?style=for-the-badge&logo=archivebox&logoColor=D9E0EE&labelColor=1E202B" alt="Maintenance">
-</p>
-
----
 
 ## Preview
 
